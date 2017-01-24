@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RecoMET
+subdirs_src_RecoMET = src_RecoMET_METFilters

@@ -1,0 +1,2 @@
+ALL_PACKAGES += Jets/MiniAnalyzer
+subdirs_src_Jets_MiniAnalyzer := src_Jets_MiniAnalyzer_plugins src_Jets_MiniAnalyzer_python src_Jets_MiniAnalyzer_test src_Jets_MiniAnalyzer_doc

@@ -1,0 +1,2 @@
+ALL_PACKAGES += RecoMET/METFilters
+subdirs_src_RecoMET_METFilters := src_RecoMET_METFilters_plugins src_RecoMET_METFilters_python src_RecoMET_METFilters_test

@@ -1,0 +1,3 @@
+tmp/slc6_amd64_gcc530/src/Jets/MiniAnalyzer/plugins/JetsMiniAnalyzerAuto/MiniAnalyzer.o: \
+ src/Jets/MiniAnalyzer/plugins/MiniAnalyzer.cc \
+
